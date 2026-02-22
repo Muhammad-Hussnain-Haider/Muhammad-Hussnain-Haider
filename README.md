@@ -1,13 +1,8 @@
-Here’s a **simple but effective README** you can use for your GitHub profile:
-
----
-
 # 👋 Hi, I'm Muhammad Hussnain Haider
 
 🚀 **React Developer Intern** at **Shifa International Hospitals Limited**
 🎓 **Bachelor’s Student in Computer Science** at the **National University of Modern Languages (NUML)**
 
----
 
 ## 💻 About Me
 
@@ -15,7 +10,6 @@ I am a passionate Frontend Developer currently gaining hands-on experience in re
 
 I enjoy turning ideas into interactive digital experiences and continuously improving my skills in frontend development and architecture.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +21,6 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 * 🔗 API Integration
 * 📱 Responsive Web Design
 
----
 
 ## 🌱 Currently Learning
 
@@ -36,7 +29,6 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 * Performance Optimization
 * Exploring Full-Stack Development
 
----
 
 ## 🎯 Career Goal
 
